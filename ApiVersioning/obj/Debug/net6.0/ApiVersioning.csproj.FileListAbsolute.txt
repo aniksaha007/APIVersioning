@@ -1,0 +1,56 @@
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\bin\Debug\net6.0\appsettings.Development.json
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\bin\Debug\net6.0\appsettings.json
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\bin\Debug\net6.0\ApiVersioning.exe
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\bin\Debug\net6.0\ApiVersioning.deps.json
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\bin\Debug\net6.0\ApiVersioning.runtimeconfig.json
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\bin\Debug\net6.0\ApiVersioning.dll
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\bin\Debug\net6.0\ref\ApiVersioning.dll
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\bin\Debug\net6.0\ApiVersioning.pdb
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\ApiVersioning.csproj.AssemblyReference.cache
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\ApiVersioning.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\ApiVersioning.AssemblyInfoInputs.cache
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\ApiVersioning.AssemblyInfo.cs
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\ApiVersioning.csproj.CoreCompileInputs.cache
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\ApiVersioning.MvcApplicationPartsAssemblyInfo.cs
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\ApiVersioning.MvcApplicationPartsAssemblyInfo.cache
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\staticwebassets.build.json
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\staticwebassets.development.json
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\scopedcss\bundle\ApiVersioning.styles.css
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\ApiVersioning.csproj.CopyComplete
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\ApiVersioning.dll
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\ref\ApiVersioning.dll
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\ApiVersioning.pdb
+D:\2022\Aniks.xyz\Blog\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\ApiVersioning.genruntimeconfig.cache
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\bin\Debug\net6.0\appsettings.Development.json
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\bin\Debug\net6.0\appsettings.json
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\bin\Debug\net6.0\ApiVersioning.exe
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\bin\Debug\net6.0\ApiVersioning.deps.json
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\bin\Debug\net6.0\ApiVersioning.runtimeconfig.json
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\bin\Debug\net6.0\ApiVersioning.dll
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\bin\Debug\net6.0\ref\ApiVersioning.dll
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\bin\Debug\net6.0\ApiVersioning.pdb
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\ApiVersioning.csproj.AssemblyReference.cache
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\ApiVersioning.GeneratedMSBuildEditorConfig.editorconfig
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\ApiVersioning.AssemblyInfoInputs.cache
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\ApiVersioning.AssemblyInfo.cs
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\ApiVersioning.csproj.CoreCompileInputs.cache
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\ApiVersioning.MvcApplicationPartsAssemblyInfo.cs
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\ApiVersioning.MvcApplicationPartsAssemblyInfo.cache
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\staticwebassets.build.json
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\staticwebassets.development.json
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\scopedcss\bundle\ApiVersioning.styles.css
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\ApiVersioning.csproj.CopyComplete
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\ApiVersioning.dll
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\ref\ApiVersioning.dll
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\ApiVersioning.pdb
+D:\aniks.xyz\API Versioning\Project\API Versioning\Project\ApiVersioning\ApiVersioning\obj\Debug\net6.0\ApiVersioning.genruntimeconfig.cache

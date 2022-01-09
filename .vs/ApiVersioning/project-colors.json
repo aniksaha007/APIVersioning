@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "36e782f4-c2ab-43da-8389-89b2c39fcd2c": {
+      "ProjectGuid": "36e782f4-c2ab-43da-8389-89b2c39fcd2c",
+      "DisplayName": "ApiVersioning",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
